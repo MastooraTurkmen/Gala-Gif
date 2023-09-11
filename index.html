@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GIF Gala RSVP</title>
+  <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file -->
+  <script src="script.js" defer></script> <!-- Link to your JavaScript file -->
+</head>
+<body>
+  <header>
+    <h1>You're Invited to the GIF Gala: Where Memes Come to Life!</h1>
+    <h2>7/21/23</h2>
+  </header>
+
+  <main>
+    <section>
+      <h3>About the GIF Gala</h3>
+      <p>The GIF Gala is a vibrant and festive event where guests dress up as their favorite GIFs or memes. Join us for a night of laughter, creativity, and unforgettable moments as we bring internet culture to life!</p>
+    </section>
+
+    <div id="confirmation-message"></div>
+
+    <section>
+      <h3>RSVP</h3>
+      <form id="rsvp-form">
+        <label for="email">Email:</label>
+        <input type="email" id="email" required>
+
+        <label for="attendance">Attendance:</label>
+        <select id="attendance" required>
+          <option value="" disabled selected>Select an option</option>
+          <option value="yes">Yes, I'll be there!</option>
+          <option value="no">Sorry, I can't make it.</option>
+        </select>
+
+        <button type="submit">Submit</button>
+      </form>
+    </section>
+  </main>
+</body>
+</html>
