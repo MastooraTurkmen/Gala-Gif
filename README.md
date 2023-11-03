@@ -12,6 +12,8 @@ Head over to https://vitejs.dev/ to learn more about using vite
 
 ## About the site
 
+![Alt text](image-2.png)
+
 1. You can eneter your email 
 2. then you can select one option
    + Yes, I'll be there
