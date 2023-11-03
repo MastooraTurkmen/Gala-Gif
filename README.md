@@ -20,7 +20,7 @@ Head over to https://vitejs.dev/ to learn more about using vite
 2. then you can select one option
    + Yes, I'll be there
    If you select this option you can see like this.
-   ![Alt text](image.png)
+   ![Alt text](./Images/image.png)
 
    + Sorry, I can't make it.
    If you select this option you can see like this.
