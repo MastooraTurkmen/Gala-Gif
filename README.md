@@ -24,7 +24,7 @@ Head over to https://vitejs.dev/ to learn more about using vite
 
    + Sorry, I can't make it.
    If you select this option you can see like this.
-   ![Alt text](image-1.png)
+   ![Alt text](./Images/image-1.png)
    
   
 
