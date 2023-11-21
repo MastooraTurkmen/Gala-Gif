@@ -1,11 +1,3 @@
-/* 
-  Challenge:
-   * Make the page more vibrant and festive
-     using the colors: #f07167 and #00afb9
-   * Update the space between the input, select, and submit button 
-*/
-
-/* Reset default styles */
 body, h1, h2, h3, p, label, input, select, button {
   margin: 0;
   padding: 0;
