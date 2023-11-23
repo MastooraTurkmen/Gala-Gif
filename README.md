@@ -1,6 +1,6 @@
 # GIF Gala RSVP
 
-> https://gala-gift.netlify.app/
+> [https://gala-gift.netlify.app/](https://gala-gif.netlify.app/)
 
 Quick start:
 
@@ -16,7 +16,7 @@ Head over to https://vitejs.dev/ to learn more about using vite
 
 ![Alt text](./Images/image-2.png)
 
-1. You can eneter your email 
+1. You can enter your email 
 2. then you can select one option
    + Yes, I'll be there
    If you select this option you can see like this.
